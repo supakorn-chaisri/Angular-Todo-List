@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@import "primeicons/primeicons.css";
+
+/* ── Google Fonts ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* ── Base Reset ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0f0c29;
+  color: #e2e8f0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.25); }
+
+/* ── PrimeNG Overrides ────────────────────────────────────── */
+.p-button { font-family: 'Inter', sans-serif !important; font-weight: 600 !important; border-radius: 0.625rem !important; }
+.p-inputtext, .p-select { font-family: 'Inter', sans-serif !important; }
+.p-dialog { border-radius: 1.25rem !important; }
+.p-dialog .p-dialog-header { padding: 1.25rem 1.5rem !important; }
+.p-dialog .p-dialog-content { padding: 1.25rem 1.5rem !important; }
+.p-dialog .p-dialog-footer { padding: 1rem 1.5rem !important; }
+.p-progressbar { height: 8px !important; border-radius: 9999px !important; }
+.p-progressbar .p-progressbar-value { background: linear-gradient(90deg, #6366f1, #8b5cf6) !important; border-radius: 9999px !important; }
+.filter-select { min-width: 140px; }
+
+/* ── Light Mode ───────────────────────────────────────────── */
+:root:not(.dark-mode) {
+  body { background: #f8fafc; color: #1e293b; }
+  .layout { background: #f8fafc !important; }
+  .sidebar {
+    background: white !important;
+    border-right-color: #e2e8f0 !important;
+  }
+  .stat-card, .completion-card, .todo-item, .filters-bar {
+    background: white !important;
+    border-color: #e2e8f0 !important;
+  }
+  .auth-page { background: linear-gradient(135deg, #ede9fe, #e0e7ff, #ddd6fe) !important; }
+  .auth-card { background: white !important; border-color: #e2e8f0 !important; box-shadow: 0 10px 40px rgba(0,0,0,0.1) !important; }
+  .todo-title, .stat-value, .brand-name, .page-title, .dashboard-title { color: #1e293b !important; }
+  .nav-item { color: #64748b !important; }
+  .nav-item:hover, .nav-item.active { color: #4f46e5 !important; }
+  .search-input { background: #f8fafc !important; border-color: #e2e8f0 !important; color: #1e293b !important; }
+}
+
+/* ── Animations ───────────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in { animation: fadeIn 0.4s ease both; }

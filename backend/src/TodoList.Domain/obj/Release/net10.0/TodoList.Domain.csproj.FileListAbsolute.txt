@@ -1,0 +1,12 @@
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\bin\Release\net10.0\TodoList.Domain.deps.json
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\bin\Release\net10.0\TodoList.Domain.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\bin\Release\net10.0\TodoList.Domain.pdb
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.AssemblyInfoInputs.cache
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.AssemblyInfo.cs
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.sourcelink.json
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\refint\TodoList.Domain.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\TodoList.Domain.pdb
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Domain\obj\Release\net10.0\ref\TodoList.Domain.dll

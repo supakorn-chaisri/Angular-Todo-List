@@ -1,0 +1,16 @@
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\bin\Release\net10.0\TodoList.Application.deps.json
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\bin\Release\net10.0\TodoList.Application.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\bin\Release\net10.0\TodoList.Application.pdb
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\bin\Release\net10.0\TodoList.Domain.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\bin\Release\net10.0\TodoList.Domain.pdb
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.csproj.AssemblyReference.cache
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.AssemblyInfoInputs.cache
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.AssemblyInfo.cs
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.csproj.CoreCompileInputs.cache
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.sourcelink.json
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.3DAAE8D2.Up2Date
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\refint\TodoList.Application.dll
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\TodoList.Application.pdb
+E:\!Tutorial\Antigravity\Angular-Todo-List\backend\src\TodoList.Application\obj\Release\net10.0\ref\TodoList.Application.dll
