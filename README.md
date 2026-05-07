@@ -1,6 +1,6 @@
 # Angular Todo List — Full Stack (Signals + .NET 10)
 
-A production-ready, modular Todo List application built with **Angular 18+** (utilizing Signals for state management) and **.NET Core 10** (Clean Architecture). The system is fully containerized and features a modern, premium design.
+A production-ready, modular Todo List application built with **Angular 21+** (utilizing Signals for state management) and **.NET Core 10** (Clean Architecture). The system is fully containerized and features a modern, premium design.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ A production-ready, modular Todo List application built with **Angular 18+** (ut
 ## 🛠️ Tech Stack
 
 ### Frontend
--   **Framework**: Angular 18+ (Standalone Components)
+-   **Framework**: Angular 21+ (Standalone Components)
 -   **State Management**: Angular Signals
 -   **Styling**: Tailwind CSS & Vanilla CSS
 -   **UI Components**: PrimeNG 21 (Aura Theme)
