@@ -5,4 +5,8 @@
     <Project Path="src/TodoList.Infrastructure/TodoList.Infrastructure.csproj" />
     <Project Path="src/TodoList.WebAPI/TodoList.WebAPI.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TodoList.UnitTests/TodoList.UnitTests.csproj" />
+    <Project Path="tests/TodoList.IntegrationTests/TodoList.IntegrationTests.csproj" />
+  </Folder>
 </Solution>

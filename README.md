@@ -108,6 +108,31 @@ npm install
 npm run start
 ```
 
+## 🧪 Testing
+
+### Backend
+- **Unit Tests**: xUnit, FluentAssertions, Moq.
+- **Integration Tests**: WebApplicationFactory.
+- **Run Tests**:
+  ```bash
+  cd backend
+  dotnet test
+  ```
+
+### Frontend
+- **Unit Tests**: Jest (`jest-preset-angular`).
+- **E2E Tests**: Cypress.
+- **Run Unit Tests**:
+  ```bash
+  cd frontend
+  npm run test
+  ```
+- **Run E2E Tests**:
+  ```bash
+  cd frontend
+  npm run cypress:run
+  ```
+
 ## 📄 License
 MIT License. See [LICENSE](LICENSE) for details.
 
