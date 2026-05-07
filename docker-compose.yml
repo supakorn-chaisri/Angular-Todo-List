@@ -9,7 +9,7 @@ services:
     environment:
       POSTGRES_DB: todolist_db
       POSTGRES_USER: ${DB_USER:-postgres}
-      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-123456}
     ports:
       - "5432:5432"
     volumes:
@@ -33,7 +33,7 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
       - ASPNETCORE_URLS=http://+:8080
-      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=todolist_db;Username=${DB_USER:-postgres};Password=${DB_PASSWORD:-postgres}
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=todolist_db;Username=${DB_USER:-postgres};Password=${DB_PASSWORD:-123456}
       - Jwt__Secret=${JWT_SECRET:-your-super-secret-jwt-key-at-least-32-characters-long!}
       - Jwt__Issuer=TodoListAPI
       - Jwt__Audience=TodoListClient
@@ -56,7 +56,7 @@ services:
     depends_on:
       - backend
     ports:
-      - "4200:80"
+      - "3000:80"
 
 volumes:
   postgres_data:

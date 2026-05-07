@@ -79,7 +79,7 @@ Angular-Todo-List/
     ```
 
 4.  **Access the application**:
-    -   Frontend: [http://localhost:4200](http://localhost:4200)
+    -   Frontend: [http://localhost:3000](http://localhost:3000)
     -   Backend API: [http://localhost:5000](http://localhost:5000)
     -   OpenAPI JSON: [http://localhost:5000/openapi/v1.json](http://localhost:5000/openapi/v1.json)
 

@@ -1,5 +1,7 @@
+const { createCjsPreset } = require('jest-preset-angular/presets');
+
 module.exports = {
-  preset: 'jest-preset-angular',
+  ...createCjsPreset(),
   setupFilesAfterEnv: ['<rootDir>/src/setup-jest.ts'],
   globalSetup: 'jest-preset-angular/global-setup',
   testPathIgnorePatterns: [

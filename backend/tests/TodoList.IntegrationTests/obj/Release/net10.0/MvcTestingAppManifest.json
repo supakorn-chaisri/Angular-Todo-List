@@ -1,0 +1,6 @@
+{
+  "TodoList.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\!Tutorial\\Antigravity\\Angular-Todo-List\\backend\\src\\TodoList.Application",
+  "TodoList.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\!Tutorial\\Antigravity\\Angular-Todo-List\\backend\\src\\TodoList.Domain",
+  "TodoList.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\!Tutorial\\Antigravity\\Angular-Todo-List\\backend\\src\\TodoList.Infrastructure",
+  "TodoList.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\!Tutorial\\Antigravity\\Angular-Todo-List\\backend\\src\\TodoList.WebAPI"
+}
