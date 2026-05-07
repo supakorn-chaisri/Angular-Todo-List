@@ -34,14 +34,17 @@
     "@angular/build": "^21.2.10",
     "@angular/cli": "^21.2.10",
     "@angular/compiler-cli": "^21.2.12",
+    "@cypress/webpack-preprocessor": "^7.1.0",
     "@types/jest": "^30.0.0",
     "cypress": "^15.14.2",
     "jest": "^30.3.0",
+    "jest-environment-jsdom": "^30.3.0",
     "jest-preset-angular": "16.1.5",
     "jsdom": "^26.0.0",
-    "jest-environment-jsdom": "^30.3.0",
     "prettier": "^3.8.3",
     "tailwindcss": "^4.2.4",
-    "typescript": "~6.0.3"
+    "ts-loader": "^9.5.7",
+    "typescript": "~5.9.3",
+    "webpack": "^5.106.2"
   }
 }
